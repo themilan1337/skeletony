@@ -1,5 +1,5 @@
 {
-    "name": "@skeletony/skeletony",
+    "name": "skeletony",
     "version": "1.0.0",
     "description": "A lightweight pure JS library for customizable skeleton loading animations",
     "main": "dist/skeletony.min.js",
