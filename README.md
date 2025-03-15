@@ -232,4 +232,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Credits
 
-Created by [Your Name] - [@yourhandle](https://github.com/yourhandle)
+Created by [Milan Gorislavets] - [@themilan1337](https://github.com/themilan1337)
