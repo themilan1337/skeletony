@@ -227,7 +227,7 @@
             background: #fff;
             border-radius: ${config.borderRadius};
             overflow: hidden;
-            z-index: 1;
+            z-index: 9999;
             transition: opacity ${config.fadeTime}s ease-out;
           }
           
