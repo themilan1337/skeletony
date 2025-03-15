@@ -1,0 +1,13 @@
+{
+    "name": "skeletony",
+    "version": "1.0.0",
+    "description": "A lightweight pure JS library for customizable skeleton loading animations",
+    "main": "dist/skeletony.min.js",
+    "keywords": ["skeleton", "loading", "animation", "frontend", "skeleton loading"],
+    "author": "Gorislavets Milan",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/themilan1337/skeletony"
+    }
+}
